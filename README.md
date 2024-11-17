@@ -16,5 +16,15 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Widgets:
-1. [Text Field 1](/lib/widgets/text_fields/text_field_1.dart) > Text Field design
+<table>
+  <tr>
+    <td>
+      <a href="/lib/widgets/text_fields/text_field_1.dart">Text Field 1</a>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/monirhelalee/collection_of_flutter_widgets/master/assets/text_filed_1.gif" alt="Text Field 1 GIF" style="width: auto; height: 200px;">
+    </td>
+  </tr>
+</table>
+
    
