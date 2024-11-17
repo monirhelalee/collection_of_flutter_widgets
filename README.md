@@ -21,6 +21,9 @@ samples, guidance on mobile development, and a full API reference.
     <td>
       <a href="/lib/widgets/text_fields/text_field_1.dart">Text Field 1</a>
     </td>
+     <td>
+      <img src="https://github.com/monirhelalee/collection_of_flutter_widgets/blob/master/assets/text_field_1.png">
+    </td>
     <td>
       <img src="https://raw.githubusercontent.com/monirhelalee/collection_of_flutter_widgets/master/assets/text_filed_1.gif" alt="Text Field 1 GIF" style="width: auto; height: 200px;">
     </td>
