@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_collection/widgets/text%20field/common_text_field.dart';
+import 'package:flutter_widget_collection/widgets/text_fields/text_field_1.dart';
 
 class TextFieldPage extends StatefulWidget {
   const TextFieldPage({super.key});
@@ -20,7 +20,7 @@ class _TextFieldPageState extends State<TextFieldPage> {
         padding: const EdgeInsets.all(16),
         child: ListView(
           children: [
-            CommonTextField(
+            TextField1(
               labelText: 'Email',
               onTapOutside: (v) {
                 FocusManager.instance.primaryFocus?.unfocus();

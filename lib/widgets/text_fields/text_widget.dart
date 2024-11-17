@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_collection/widgets/text%20field/styles.dart';
+import 'package:flutter_widget_collection/widgets/text_fields/styles.dart';
 
 class TextWidget extends Text {
   TextWidget(

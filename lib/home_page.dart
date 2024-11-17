@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_collection/widgets/text%20field/text_field_page.dart';
+import 'package:flutter_widget_collection/widgets/text_fields/text_field_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

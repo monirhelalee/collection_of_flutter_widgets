@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_collection/widgets/text%20field/colors.dart';
+import 'package:flutter_widget_collection/widgets/text_fields/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class TextStyles {
